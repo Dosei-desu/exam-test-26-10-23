@@ -1,3 +1,5 @@
+package øvelse13;
+
 import java.util.Random;
 
 public class Julegave {

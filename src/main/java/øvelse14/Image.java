@@ -1,3 +1,5 @@
+package øvelse14;
+
 public class Image {
     private String fileName;
     private int width;
